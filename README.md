@@ -1,4 +1,4 @@
-<p><strong>Case Study 2: Ivanti VPN Attacks (2024)</strong></p>
+<p><strong> Ivanti VPN Attacks (2024)</strong></p>
 
 <p><strong>Executive Summary</strong><br>
 In January 2024, a series of critical vulnerabilities in Ivanti's Connect Secure VPN were exploited by cyber attackers, compromising thousands of devices and organizations worldwide. The attackers were able to bypass authentication protocols, gaining access to sensitive business data and potentially compromising critical infrastructure. As a SOC analyst, this case study delves into the breach’s causes, identifies vulnerabilities, and outlines recommendations for preventing similar incidents.</p>
